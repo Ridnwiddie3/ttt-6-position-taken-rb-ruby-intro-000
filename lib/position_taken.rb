@@ -8,5 +8,5 @@ elsif board[position] == nil
   false
 else board[position] == "X" || "O"
   true
-
+end
 end
